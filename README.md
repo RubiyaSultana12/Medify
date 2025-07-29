@@ -47,7 +47,7 @@
 
 ## Demo
 
-- [Click here for the demo]([https://medify.vercel.app/](https://medify-kappa-lemon.vercel.app/)
+- [Click here for the demo](https://medify-kappa-lemon.vercel.app/)
 
 ## Available Scripts
 
